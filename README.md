@@ -1,6 +1,6 @@
 # Leveraging Docker Compose profiles
 
-Source file for the [article]()
+Source file for the [article](https://medium.com/@kicsipixel/leveraging-docker-compose-profiles-01bb3b02c2fc)
 
 ### You need to create `.env` and `.env_test` files:
 
