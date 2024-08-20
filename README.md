@@ -32,7 +32,7 @@ POSTGRES_HOST=localhost
 POSTGRES_PORT=5433
 POSTGRES_USER=hb_usernam3
 POSTGRES_PASSWORD=secret
-POSTGRES_DB=prague-parks-tes
+POSTGRES_DB=prague-parks-test
 ```
 
 ### To start different environments:
