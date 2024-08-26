@@ -25,10 +25,6 @@ POSTGRES_HOST=localhost
 
 ```
 # Application
-DATABASE_HOST=db
-DATABASE_NAME=prague-parks
-DATABASE_USERNAME=hb_usernam3
-DATABASE_PASSWORD=secret
 # PostgreSQL database
 PGDATA=/var/lib/postgresql/data/pgdata-dev
 POSTGRES_USER=hb_usernam3
